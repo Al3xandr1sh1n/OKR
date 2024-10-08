@@ -1,1 +1,2 @@
+What is that git rebase?
 Що таке git rebase?
